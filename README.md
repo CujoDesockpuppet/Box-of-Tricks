@@ -67,7 +67,7 @@ The Box of Tricks works with all currently supported versions of Postgres (as of
 
 This function analyzes the health and design of your indexes.
 
-![check_indexes output](./documentation/check_indexes_output.png | width="600")
+<img src="./documentation/check_indexes_output.png" width="600">
 
 Parameters include:
 
